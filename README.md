@@ -19,7 +19,7 @@ This project is a React and Redux application that connects to a backend API for
    ```
 2. Navigate to the project directory:
    ```
-   cd auto-job-applier-frontend
+   cd linkedin_auto_applier_UI
    ```
 3. Install the dependencies:
    ```
